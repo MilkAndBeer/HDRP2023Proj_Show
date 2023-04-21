@@ -215,6 +215,7 @@ Material:
     - _USEREDLAYER: 1
     - _UseShadowThreshold: 0
     - _ZL_Add_Cavity: 1
+    - _ZL_BC_Saturation: 0.81
     - _ZL_Cavity_Intensity: 2
     - _ZL_Metallic: 0
     - _ZL_N_Break_Tiling_Frequency: 1
@@ -241,7 +242,7 @@ Material:
     - ______GL_Use_BC_tex: 1
     - ______RLB_Mask_Tex_Contrast: 1
     - ______RLB_Mask_Tex_Spread: 1
-    - ______RLB_Slope_Mask_Contr: 3
+    - ______RLB_Slope_Mask_Contr: 2
     - ______RLB_Slope_Mask_Offset: -0.25
     - ______RLB_Use_BC_Additive_Blend: 0
     - ______RLB_Use_MRO_Additive_Blend: 0
@@ -290,7 +291,7 @@ Material:
     - ______GL_Cavity_Color: {r: 0, g: 0, b: 0, a: 0}
     - ______GL_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0}
     - ______RL_BC_Tint: {r: 1, g: 1, b: 1, a: 0}
-    - ______RL_Cavity_Color: {r: 0.3490566, g: 0.25724038, b: 0.21898362, a: 1}
+    - ______RL_Cavity_Color: {r: 0.6037736, g: 0.32103807, b: 0.20220721, a: 1}
     - ______RL_Color: {r: 1, g: 1, b: 1, a: 0}
     - ______ZL_BC_Tint: {r: 0.5188679, g: 0.5188679, b: 0.5188679, a: 0}
     - ______ZL_Cavity_Color: {r: 0, g: 0, b: 0, a: 1}
