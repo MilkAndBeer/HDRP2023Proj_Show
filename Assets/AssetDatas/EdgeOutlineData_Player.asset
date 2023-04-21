@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfeeb3ad8174b1948a378c4e993c2526, type: 3}
+  m_Name: EdgeOutlineData_Player
+  m_EditorClassIdentifier: 
+  IsEditor: 0
+  edgeColor: {r: 1, g: 0, b: 0, a: 1}
+  edgeSize: 1
+  edgeOpacity: 1
+  depthAlphaDebug: 0
+  defaultFarPlane: 5
+  edgeDepthAlpha: {x: 0, y: 5}
+  backGroundOpacity: 0
+  depthDetectionOn: 1
+  depthDetectionStepValue: 0.1
+  depthDetectionFadeDepth: 0.25
+  normalDetectionOn: 0
+  normalDetectionStepValue: 0.844
+  normalDetectionFadeDepth: 0.362
