@@ -49,7 +49,7 @@ Material:
     - _IsEditor: 0
     - _NormalDectionOn: 0
     - _Normal_Detection_Fade_Value: 0.7
-    - _Normal_Detection_Step_Value: 0.211
+    - _Normal_Detection_Step_Value: 0.606
     m_Colors:
     - _Edge_Color: {r: 0, g: 1, b: 0.049153566, a: 1}
     - _Edge_Depth_Alpha: {r: 0, g: 5, b: 0, a: 0}
