@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scene/CustomPass/OutdoorsScene.unity
     guid: 8124e5870f4fd4c779e7a5f994e84ad1
+  - enabled: 1
+    path: Assets/Scene/WorkedShow/LinkChangeWorld002.unity
+    guid: aed94870aeb3c3246bed8596b1cabe3b
   m_configObjects: {}
